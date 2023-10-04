@@ -2,9 +2,22 @@
 
 ![1fdff2ee1ee41e2b800e2328b5160104.png](:/944e19986ad543d488871b0f260651da)
 
-[toc]
+<!-- TOC -->
+* [Application interface avec un formulaire permettant de consommer une API](#application-interface-avec-un-formulaire-permettant-de-consommer-une-api)
+* [Enoncé](#enoncé)
+* [!! Important !!](#--important--)
+* [Objectifs / Compétences](#objectifs--compétences)
+* [Langages utilisés](#langages-utilisés)
+* [Service à utiliser](#service-à-utiliser)
+* [Bibliothèque utilisée](#bibliothèque-utilisée)
+* [Travail à rendre](#travail-à-rendre)
+  * [Points de vigilance](#points-de-vigilance)
+* [Barême](#barême)
+* [Bonus](#bonus)
+  * [Proposition de solution](#proposition-de-solution)
+<!-- TOC -->
 
-v 0.2
+v 0.3
 
 # Enoncé
 
